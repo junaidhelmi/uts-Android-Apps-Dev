@@ -11,7 +11,7 @@ void main() {
 class HomePage extends StatelessWidget {
   List catNames = [
     "SIP-LK",
-    'BERKAS',
+    'BERKAS', 
     'SI HRD',
     'APPLE',
     'SARPRAS',
